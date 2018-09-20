@@ -6,7 +6,7 @@ multiplicar
 
 Ejecutar este comando
 
-,,,
+```
 
 npm install
-,,,
+```
